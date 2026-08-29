@@ -339,8 +339,4 @@ automatically.
 
 ---
 
-## Author
 
-**SIC Assembler Project**
-
-Implemented in **C** as a study of assembler design and systems programming concepts.
